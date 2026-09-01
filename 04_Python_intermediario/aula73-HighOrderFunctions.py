@@ -2,9 +2,8 @@
 Higher order functions
 Funções de primeira classe
  
-Armazenamento em variáveis: funções podem 
-ser atribuídas a variáveis como qualquer 
-outro objeto em Python.
+Armazenamento em variáveis: funções podem  ser atribuídas a variáveis como qualquer 
+outro objeto em Python. 
 """
 # exemplo:
  
